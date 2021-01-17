@@ -1,0 +1,5 @@
+Automate The Boring Stuff with Python#Al Sweigart
+Data Science from Scratch#Joel Grus
+Introduction to Machine Learning with Python#Andreas C. Muller and Sarah Guido
+Python for Data Analysis#Wes McKinney
+An Introduction to Programming with C++#Diane Zak
